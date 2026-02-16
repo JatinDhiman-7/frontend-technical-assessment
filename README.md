@@ -1,3 +1,8 @@
+login Info:-
+username:-emilys
+password:-emilyspass
+//this username or password are set by the dummyjson 
+
 Admin Dashboard App
 
 A Next.js 13+ admin dashboard project with:
