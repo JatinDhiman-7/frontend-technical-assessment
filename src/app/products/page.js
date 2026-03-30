@@ -12,7 +12,7 @@ const ProductCard = React.memo(({ product }) => (
       <Box
         sx={{
           border: "1px solid #ddd",
-          borderRadius: 2,
+          borderRadius: 2, 
           overflow: "hidden",
           cursor: "pointer",
           "&:hover": { boxShadow: 3 },
