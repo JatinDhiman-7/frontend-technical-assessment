@@ -74,7 +74,7 @@ export default function LoginPage() {
       <Paper elevation={6} sx={{ mt: 10, p: 4 }}>
 
         <Typography variant="h4" gutterBottom align="center">
-          Testing-user:emilys
+          Testing-user:emilys <br/>
           Testing-Password:emilyspass
         </Typography>
 
