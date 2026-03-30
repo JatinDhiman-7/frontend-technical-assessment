@@ -72,6 +72,12 @@ export default function LoginPage() {
   return (
     <Container maxWidth="sm">
       <Paper elevation={6} sx={{ mt: 10, p: 4 }}>
+
+        <Typography variant="h4" gutterBottom align="center">
+          Testing-user:emilys
+          Testing-Password:emilyspass
+        </Typography>
+
         <Typography variant="h4" gutterBottom align="center">
           Admin Login
         </Typography>
